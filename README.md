@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Naveed1891/Naveed1891/blob/main/Black%20Pink%20Modern%20Email%20Header.png" alt="Banner">
+</div>
+
 <h1 align="center">Hi 👋, I'm Naveeed Aslam</h1>
 <h3 align="center">A passionate Android App Developer from Pakistan</h3>
 
